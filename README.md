@@ -16,7 +16,6 @@ but then I decided It's unity time.
 
 Languages i want to learn:
   - Java
-  - C++
   - C
   - JavaScript
   - PHP (Maybe?)
