@@ -4,6 +4,7 @@ I do things, such as code (I think?)
 Languages i know:
   - Python (About 1 year of experience)
   - C# (Still learning, couple weeks or a months of experience)
+  - C++
   
  The Non-Language Languages I know:
   - HTML (Not much experience, enough to use bootstrap.)
