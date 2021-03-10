@@ -1,5 +1,4 @@
 ### Hello
-I do things, such as code (I think?)
 
 Languages i know:
   - Python (About 3 years of experience)
