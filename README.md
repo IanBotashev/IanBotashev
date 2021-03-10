@@ -14,5 +14,4 @@ Languages i want to learn:
   - C
   - JavaScript
   - PHP (Maybe?)
-  - 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IanBotashev)](https://github.com/anuraghazra/github-readme-stats)
